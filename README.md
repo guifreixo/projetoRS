@@ -47,4 +47,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com parceiria do curso grátis Discover disponível pela Rocketseat!
+Feito com parceria do curso grátis Discover disponível pela Rocketseat!
